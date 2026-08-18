@@ -25,7 +25,7 @@ This repository contains documentation and reports for cybersecurity lab assignm
 - **Topic**: Advanced networking and security protocols
 - **Objective**: Understanding modern security implementations
 
-### 5. Bonus Assignment
+### 5. Advance Exploitation
 - **File**: BONUS_ASSIGNMENT.docx
 - **Topic**: Advanced cybersecurity concepts
 - **Objective**: Extending knowledge beyond core curriculum
