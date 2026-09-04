@@ -1,4 +1,4 @@
-# Assignment 1: Firewall Exploration and Netfilter Implementation
+# Firewall Exploration and Netfilter Implementation
 
 ## Overview
 
