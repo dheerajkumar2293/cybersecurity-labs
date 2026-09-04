@@ -1,4 +1,4 @@
-# Assignment 2: Advanced Network Security Implementation
+# Advanced Network Security Implementation
 
 ## Course Information
 
