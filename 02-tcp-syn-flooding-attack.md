@@ -1,4 +1,4 @@
-# TCP SYN Flooding Attack - Lab Report
+# TCP SYN Flooding Attack
 
 ## Assignment 3
 
